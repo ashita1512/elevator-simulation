@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ashita1512/elevator-simulation.git/static/css/main.5a8ab433.css",
+    "main.js": "/ashita1512/elevator-simulation.git/static/js/main.741cc8dd.js",
+    "index.html": "/ashita1512/elevator-simulation.git/index.html",
+    "main.5a8ab433.css.map": "/ashita1512/elevator-simulation.git/static/css/main.5a8ab433.css.map",
+    "main.741cc8dd.js.map": "/ashita1512/elevator-simulation.git/static/js/main.741cc8dd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a8ab433.css",
+    "static/js/main.741cc8dd.js"
+  ]
+}
