@@ -130,7 +130,6 @@ npm run eject      # Eject from Create React App (not recommended)
 - **IDE**: Visual Studio Code (macOS compatible)
 
 ### Performance Features
-- **Memory Efficient**: No localStorage usage (Claude.ai compatible)
 - **Smooth Animations**: CSS transitions for visual feedback
 - **Type Safe**: Full TypeScript implementation
 - **Responsive**: Adaptive grid layout
